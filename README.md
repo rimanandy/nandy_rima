@@ -24,19 +24,19 @@ the slope of the peak exercise ST segment
 number of major vessels (0-3) colored by flourosopy
 thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 
-Technology 
+Technology :
 Business Intelligence
 
-Domain 
+Domain :
 Healthcare
 
-Project Difficulty level 
+Project Difficulty level :
 Advanced
 
-Programming Language 
+Programming Language: 
 Python
 
-Tools 🛠
+Tools :
 Google Collab, MS Excel
 
 Conclusion: 
